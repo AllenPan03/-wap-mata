@@ -1,7 +1,8 @@
 # -wap-mata
+
 <!– 删除苹果默认的工具栏和菜单栏 –>
 
- <meta name=”apple-mobile-web-app-capable” content=”yes” />
+    <meta name=”apple-mobile-web-app-capable” content=”yes” />
  
 <!– 设置苹果工具栏颜色 –>
 
